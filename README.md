@@ -13,4 +13,4 @@ Using the data source, we've found the most popular sport by avg that female ath
 4. Softball - Fastpitch
 5. Soccer
 
-![TopSportForFemalesAvg](TopSportForFemalesAvg.png)
+![TopSportForFemalesAvg](/images/TopSportForFemalesAvg.png)
