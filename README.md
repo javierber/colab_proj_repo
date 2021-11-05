@@ -15,5 +15,5 @@ Create a new GitHub repository with an informative name for your visualization o
 Add your code to the GitHub repo you created. You can do this in Google Colab by selecting File > "Save a Copy In GitHub"
 Edit the README to create an informative overview of the exercise that explains the purpose of the task/visualization, the data, and what the visualization you made shows/tells you. You may even want to include a static image of your final visualization in the README as well! (Note: README's are markdown files. Here is a cheatsheet of markdown syntax.) Try to make this as informative and professional as possible, as this is the first thing people will see when they come to your GitHub repo
 
-![Top5_avg](https://user-images.githubusercontent.com/15024128/140436738-8254c3f5-4a61-47df-b0ef-bcbd38f022db.png)
-![runner](https://user-images.githubusercontent.com/15024128/140436743-827bde01-cf90-4c31-b24e-0cf747356d13.png)
+!![Top5_avg](https://user-images.githubusercontent.com/15024128/140436738-8254c3f5-4a61-47df-b0ef-bcbd38f022db.png)
+!![runner](https://user-images.githubusercontent.com/15024128/140436743-827bde01-cf90-4c31-b24e-0cf747356d13.png)
