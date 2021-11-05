@@ -7,7 +7,7 @@ DATA SOURCE: partcipation_statistics_06_14_2020 10_22.xlsx (https://data.world/m
 
 Using the data source, we've found the most popular sport by avg that female athlete participated in were :
 
-#1. Track Field - Outdoor
+# **1. Track Field - Outdoor**
 2. Basketball
 3. Volleyball
 4. Softball - Fastpitch
