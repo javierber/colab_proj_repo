@@ -17,3 +17,6 @@ Edit the README to create an informative overview of the exercise that explains 
 
 !![Top5_avg](https://user-images.githubusercontent.com/15024128/140436738-8254c3f5-4a61-47df-b0ef-bcbd38f022db.png)
 !![runner](https://user-images.githubusercontent.com/15024128/140436743-827bde01-cf90-4c31-b24e-0cf747356d13.png)
+
+![runner](https://user-images.githubusercontent.com/15024128/140447013-11e623d4-5b46-4384-87ce-55cd8aaba2d4.jpg)
+
